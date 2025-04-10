@@ -23,6 +23,7 @@ This project utilizes `n8n`, an automation and integration tool, to create a **R
 </td>
 </tr>
 </table>
+
 #### 🔄 Workflow Overview:
 1. **Input**: A user sends a message.
 2. **AI Agent**: Analyzes the input using the OpenAI model.
