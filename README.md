@@ -4,7 +4,6 @@
 ### 💼 Project: Real-Time Search AI Agent using n8n ⚡
 
 <details>
-<summary>🔍 Click to expand</summary>
 
 #### 📌 Description:
 This project utilizes `n8n`, an automation and integration tool, to create a **Real-Time AI Chat Agent** capable of processing chat queries and fetching dynamic search results using tools like `SerpAPI`, `OpenAI`, and a `Calculator`.
