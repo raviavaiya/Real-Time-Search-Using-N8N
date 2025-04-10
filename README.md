@@ -2,8 +2,9 @@
 #N8n  #SerpApi  #OpenAI Chat Model
 
 ### 💼 Project: Real-Time Search AI Agent using n8n ⚡
-
-
+<table>
+<tr>
+<td width="60%">
 
 #### 📌 Description:
 This project utilizes `n8n`, an automation and integration tool, to create a **Real-Time AI Chat Agent** capable of processing chat queries and fetching dynamic search results using tools like `SerpAPI`, `OpenAI`, and a `Calculator`.
@@ -16,6 +17,12 @@ This project utilizes `n8n`, an automation and integration tool, to create a **R
 - **SerpAPI**: Performs live Google searches for user queries.
 - **Calculator**: Executes arithmetic operations if needed.
 
+</td>
+<td width="40%">
+<img src="https://github.com/raviavaiya/Real-Time-Search-Using-N8N/blob/main/Real%20Time%20Search%20N8n.png" alt="Real Time Search Workflow" width="100%">
+</td>
+</tr>
+</table>
 #### 🔄 Workflow Overview:
 1. **Input**: A user sends a message.
 2. **AI Agent**: Analyzes the input using the OpenAI model.
